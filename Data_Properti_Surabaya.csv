@@ -1,0 +1,125 @@
+Area Category;Nama Daerah;Luas Tanah (m2);Luas Bangunan (m2);Jumlah Kamar;Jumlah Km Mandi;Tingkat/Lantai ;Harga rata2 Komunitas;Harga Dipasarkan (dari Owner);Harga Terjual;Terjual/Belum;Status Kepemilikan;Arah Hadap Rumah;Posisi Rumah;Lebar Jalan Depan Rumah (ROW)
+;;;;;;;;;;;;;;
+Premium;Northwest Lake;72;69;2;2;2;1.400.000.000;1.350.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil
+Standard;Bukit Palma;60;90;3;2;2;1.000.000.000;1.125.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil
+Standard;Palma Classica;210;100;4;2;1;2.400.000.000;1.999.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;Bukit Palma;120;54;3;1;1;800.000.000;850.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;Bukit Palma;60;90;3;2;2;800.000.000;1.175.000.000;1.025.000.000;Terjual;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;Bukit Palma;233;177;5;3;2;2.000.000.000;3.700.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Tikungan/Hook;1-2 Mobil
+Standard;bukit Palma;84;120;3;2;2;1.000.000.000;1.300.000.000;1.200.000.000;Terjual;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil
+Standard;bukit Palma;120;100;2;1;1;1.150.000.000;1.300.000.000;;Belum;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Standard;bukit Palma;120;70;3;1;1;1.150.000.000;1.350.000.000;;Belum;Hak Milik (SHM);Timur;Standard;1-2 Mobil
+Standard;bukit Palma;122,5;94;3;2;1;1.200.000.000;1.250.000.000;;Belum;Hak Milik (SHM);Utara;Standard;1-2 Mobil
+Premium;citraland;180;220;4;3;2;3.500.000.000;3.600.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Premium;citraland;210;170;3;2;1;2.500.000.000;2.300.000.000;1.900.000.000;Terjual;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil
+Standard;greenlake;136;138;4;4;2;2.000.000.000;2.600.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;greenlake;200;258;4;3;2;2.500.000.000;3.750.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Premium;wisata bukit mas;120;124;4;4;2;2.000.000.000;2.500.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;Pondok Benowo;135;240;4;4;2;1.500.000.000;2.100.000.000;;Belum;Hak Milik (SHM);Utara;Standard;1-2 Mobil
+Premium;Darmo;372;400;5;4;2;10.000.000.000;15.500.000.000;;Belum;Hak Milik (SHM);Utara;Tikungan/Hook;> 2 Mobil
+Premium;Sutorejo;166;210;5;4;2;3.000.000.000;3.400.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Premium;Northwest Lake;90;85;3;3;2;1.850.000.000;1.800.000.000;;Belum;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Premium;Northwest Lake;50;45;1;2;2;900.000.000;950.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Premium;Northwest Lake;50;45;1;2;2;900.000.000;983.300.000;869.930.000;Terjual;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Premium;Northwest Lake;105;96;3;3;2;1.600.000.000;1.900.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil
+Premium;Northwest Lake;55;45;1;2;2;1.000.000.000;1.022.700.000;905.430.000;Terjual;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Premium;Northwest Lake;55;45;1;2;2;1.000.000.000;900.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Timur;Standard;> 2 Mobil
+Premium;Northwest Lake;50;53;2;2;2;1.000.000.000;1.020.500.000;903.450.000;Terjual;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Premium;northwest Lake;72;69;2;2;2;1.200.000.000;1.400.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil
+Standard;northwest park;72;46;2;1;1;1.000.000.000;1.085.200.000;961.680.000;Terjual;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Standard;northwest park;72;46;2;1;1;1.000.000.000;900.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;northwest park;72;46;2;1;1;1.000.000.000;1.025.200.000;907.680.000;Terjual;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;northwest park;72;46;2;1;1;1.000.000.000;1.000.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;northwest park;90;70;2;2;2;1.400.000.000;1.600.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;northwest park;72;46;2;1;1;800.000.000;825.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Premium;royal park;210;280;4;4;2;3.250.000.000;4.000.000.000;3.150.000.000;Terjual;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Premium;royal park;210;84;4;2;2;3.000.000.000;3.500.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil
+Sangat Premium;selat golf;450;650;6;5;2;12.000.000.000;13.900.000.000;;Belum;Hak Milik (SHM);Utara;Cul De Sac/Ujung Gang Buntu;> 2 Mobil
+Standard;taman puspa raya;90;135;4;4;2;1.800.000.000;2.000.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;darmo permai;200;350;5;2;2;3.500.000.000;4.400.000.000;;Belum;Hak Milik (SHM);Timur;Standard;> 2 Mobil
+Standard;darmo permai;200;135;4;2;1;3.000.000.000;3.200.000.000;;Belum;Hak Milik (SHM);Timur;Standard;> 2 Mobil
+Premium;graha;766;540;6;5;2;14.000.000.000;16.000.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Tikungan/Hook;> 2 Mobil
+Standard;grand sunrise;90;48;2;1;1;900.000.000;800.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Premium;kupang indah;300;250;5;3;1;3.300.000.000;3.500.000.000;3.000.000.000;Terjual;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;bayleaf;60;40;2;1;1;400.000.000;500.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil
+Standard;padmosusastro;150;122;3;2;1;2.800.000.000;3.500.000.000;;Belum;Hak Milik (SHM);Barat;Standard;> 2 Mobil
+Premium;pakuwon indah;265;236;5;4;2;6.000.000.000;6.500.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;pandugo;113;100;3;2;2;1.250.000.000;1.500.000.000;1.250.000.000;Terjual;Hak Milik (SHM);Timur;Standard;> 2 Mobil
+Standard;ploso;72;140;3;3;2;1.000.000.000;1.300.000.000;;Belum;Hak Milik (SHM);Utara;Standard;1-2 Mobil
+Standard;prapen;165;330;4;3;2;2.500.000.000;2.750.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;puri surya jaya;217;100;5;2;2;1.300.000.000;1.400.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;puri surya jaya;105;70;2;1;1;700.000.000;899.000.000;;Belum;Hak Milik (SHM);Barat;Standard;> 2 Mobil
+Standard;Tenggilis;91;150;5;4;2;1.500.000.000;1.650.000.000;;Belum;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil
+Standard;Tenggilis;80;125;4;4;2;1.300.000.000;1.550.000.000;;Belum;Hak Milik (SHM);Barat;Standard;> 2 Mobil
+Standard;royal residence;445;500;6;5;2;6.500.000.000;8.000.000.000;;Belum;Hak Milik (SHM);Selatan;Tikungan/Hook;> 2 Mobil
+Standard;taman pondok indah;140;200;4;3;2;2.500.000.000;2.700.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;Palma Classica;105;60;2;1;1;1.200.000.000;1.200.000.000;;Belum;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Standard;Northwest Park;72;54;2;1;1;1.000.000.000;1.100.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;Northwest Park;105;90;3;2;2;1.300.000.000;1.600.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;Pelican Hill;200;198;5;4;2;3.000.000.000;3.100.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Premium;Puri Widya;150;170;4;4;2;2.500.000.000;2.300.000.000;2.000.000.000;Terjual;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;De Casa;100;100;4;3;2;1.000.000.000;1.500.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Premium;Grand Pakuwon;72;84;3;2;2;1.500.000.000;1.800.000.000;1.400.000.000;Terjual;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;Grand Harvest;60;77;2;2;2;1.100.000.000;1.200.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;Grand Harvest;69;77;2;2;2;1.100.000.000;1.200.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;Grand Harvest;102;93;4;3;2;1.500.000.000;1.450.000.000;1.250.000.000;Terjual;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;Puri Safira;105;80;3;1;1;700.000.000;775.000.000;700.000.000;Terjual;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;Lidah Kulon;148,5;148,5;3;3;2;1.500.000.000;1.750.000.000;1.500.000.000;Terjual;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;Simpang;187;240;4;4;2;2.750.000.000;3.100.000.000;;Belum;Hak Milik (SHM);Timur;Tikungan/Hook;> 2 Mobil
+Standard;TWR;105;90;3;2;2;1.000.000.000;1.200.000.000;;Belum;Hak Milik (SHM);Utara;Standard;1-2 Mobil
+Premium;VBM;264;350;7;4;2;4.000.000.000;4.300.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Premium;Prambanan;128;125;4;4;2;3.750.000.000;4.950.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;TPI;119;149;3;1;1;1.750.000.000;1.700.000.000;1.600.000.000;Terjual;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Premium;WBM;240;330;5;4;2;3.500.000.000;3.700.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;Babatan;175;115;4;4;2;1.800.000.000;1.750.000.000;1.500.000.000;Terjual;Hak Milik (SHM);Selatan;Standard;1-2 Mobil
+Standard;Babatan;162;120;4;3;1;2.000.000.000;2.000.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;Palma Classica;200;280;5;5;2;3.000.000.000;3.250.000.000;;Terjual;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil
+Standard;Greenlake;105;140;4;3;2;1.500.000.000;1.950.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Premium;northwest lake;72;60;1;2;2;1.200.000.000;1.275.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Standard;northwest park;120;100;3;2;2;1.800.000.000;2.000.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;Pelican Hill;135;145;4;2;2;2.300.000.000;2.450.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;Pelican Hill;135;140;4;3;2;2.300.000.000;2.300.000.000;2.100.000.000;Terjual;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Premium;Puri Widya;450;650;7;6;2;8.000.000.000;8.500.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Cul De Sac/Ujung Gang Buntu;> 2 Mobil
+Standard;Darmo;240;180;3;2;1;4.000.000.000;4.200.000.000;;Belum;Hak Milik (SHM);Timur;Standard;> 2 Mobil
+Standard;Darmo;200;280;5;4;2;3.000.000.000;3.500.000.000;;Belum;Hak Milik (SHM);Timur;Standard;> 2 Mobil
+Standard;Dukuh Kupang;140;280;5;3;2;1.200.000.000;1.400.000.000;;Belum;Surat Hijau;Barat;Standard;1-2 Mobil
+Sangat Premium;Graha ;345;550;6;5;2;15.000.000.000;16.000.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Sangat Premium;Graha;328;375;5;5;2;10.000.000.000;10.000.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Premium;kupang indah;360;360;6;5;2;6.000.000.000;6.500.000.000;;Belum;Hak Milik (SHM);Barat;Standard;> 2 Mobil
+Standard;pakal;88;70;2;1;1;500.000.000;750.000.000;;Belum;Hak Guna Bangunan (HGB);Barat;Standard;1-2 Mobil
+Premium;pakuwon city;170;161;4;4;2;3.500.000.000;4.000.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Premium;pakuwon indah;162;150;4;4;2;4.000.000.000;4.000.000.000;;Belum;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Premium;pakuwon indah;200;215;4;5;3;4.500.000.000;5.750.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;> 2 Mobil
+Standard;villa valensia;160;160;4;3;1;3.000.000.000;2.800.000.000;;Belum;Hak Milik (SHM);Barat;Standard;> 2 Mobil
+Standard;wisma lidah;120;200;4;4;2;1.500.000.000;2.000.000.000;;Belum;Hak Milik (SHM);Timur;Standard;1-2 Mobil
+Premium;dian istana;164;140;4;4;2;4.000.000.000;3.500.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Standard;forest;136;160;5;3;2;2.800.000.000;2.900.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;Graha Sampurna;135;200;5;4;2;2.500.000.000;3.000.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;pinus asri;150;140;4;2;1;1.000.000.000;1.450.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;1-2 Mobil
+Standard;pondok maritim;135;120;3;2;1,5;1.250.000.000;1.500.000.000;;Belum;Hak Milik (SHM);Utara;Standard;< 1 Mobil
+Standard;Alam Galaxy;72;48;1;2;2;1.300.000.000;1.400.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Standard;Royal;50;65;2;1;2;1.400.000.000;1.300.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Premium;wisata bukit mas;160;320;7;4;2;4.300.000.000;3.800.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil
+Premium;wisata bukit mas;180;240;5;3;2;4.000.000.000;4.000.000.000;;Belum;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Premium;wisata bukit mas;66;198;4;4;3;1.900.000.000;1.600.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil
+Premium;wisata bukit mas;66;198;5;5;3;1.900.000.000;1.600.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil
+Premium;wisata bukit mas;66;198;6;6;3;1.900.000.000;1.600.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Utara;Standard;1-2 Mobil
+Premium;wisata bukit mas;218;280;4;3;2;3.600.000.000;3.500.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Premium;graha natura;96;74;4;3;2;2.200.000.000;2.200.000.000;;Belum;Hak Guna Bangunan (HGB);Timur;Standard;> 2 Mobil
+Premium;grand pakuwon;72;70;2;2;2;1.300.000.000;1.325.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Premium;grand pakuwon;48;57;2;2;2;1.250.000.000;1.250.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Barat;Standard;> 2 Mobil
+Premium;kupang indah;345;540;6;5;2;5.800.000.000;5.800.000.000;;Belum;Hak Milik (SHM);Barat;Standard;> 2 Mobil
+Premium;kupang indah;315;315;3;2;1;4.000.000.000;3.600.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;manyar;240;330;5;4;2;5.100.000.000;5.300.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
+Premium;pakuwon;144;170;4;4;2;4.000.000.000;4.300.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Sangat Premium;pakuwon;360;500;6;6;2;8.000.000.000;10.000.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;> 2 Mobil
+Sangat Premium;bukit golf;1554;1500;7;6;2;38.500.000.000;38.500.000.000;;Belum;Hak Milik (SHM);Timur;Standard;> 2 Mobil
+Standard;bukit palma;105;170;5;2;2;1.395.000.000;1.900.000.000;;Belum;Hak Milik (SHM);Utara;Standard;1-2 Mobil
+Standard;bukit palma;158;180;5;4;2;2.400.000.000;2.000.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;1-2 Mobil
+Standard;bukit palma;115;104;4;3;2;1.850.000.000;1.850.000.000;;Belum;Hak Guna Bangunan (HGB);Selatan;Standard;1-2 Mobil
+Standard;greenhill;97,7;50;2;1;1;1.250.000.000;1.250.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Barat;Standard;> 2 Mobil
+Standard;greenhill;105;69;3;2;2;1.836.000.000;1.850.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Premium;northwest central;105;104;3;2;2;1.900.000.000;1.900.000.000;;Belum;Pengikatan Perjanjian Jual Beli (PPJB);Selatan;Standard;> 2 Mobil
+Premium;northwest hill;60;48;1;2;2;1.250.000.000;1.200.000.000;;Belum;Hak Guna Bangunan (HGB);Utara;Standard;> 2 Mobil
+Premium;woodland;180;130;4;3;1;2.400.000.000;2.600.000.000;;Belum;Hak Milik (SHM);Selatan;Standard;> 2 Mobil
+Standard;darmo permai;286;262;5;2;1;4.100.000.000;4.100.000.000;;Belum;Hak Milik (SHM);Utara;Standard;> 2 Mobil
